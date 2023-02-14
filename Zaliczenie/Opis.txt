@@ -1,0 +1,5 @@
+﻿Bardzo prosty kod okreslajacy wlasciowosci figury
+Stworzyłem klasę figura od której dziedzicza inne klasy, w tym przypadku stowrzyłem klase Prostakat 
+(dodanie innych klas typu trojkat wygladalaby tak samo)
+Przykładowo zrobiłem metodę która wypisuje wszystkie dane wybranej klasy czyli prostokat ma nazwe i dlugosci dwoch bokow "a" oraz "b",
+
